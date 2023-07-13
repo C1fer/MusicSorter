@@ -1,0 +1,2 @@
+music_tag==0.4.3
+PyAutoGUI==0.9.53
